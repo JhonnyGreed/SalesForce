@@ -1,0 +1,6 @@
+integer n = 1;
+integer vezes = 9;
+    while(n<=10){
+       system.debug( vezes+' x '+ n +' = '+ (vezes * n));
+        n++;
+    }
